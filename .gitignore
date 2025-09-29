@@ -1,2 +1,4 @@
 *.FCStd1
 *.FCBak
+*.3mf
+*.gcode
